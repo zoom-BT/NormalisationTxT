@@ -18,8 +18,8 @@ Usage:
     # Mode interactif
     python normalize.py --interactive --lang fr
 
-Author: Text Normalization Challenge
-Date: 2025
+Author: Zoom BT for Text Normalization Challenge
+Date: Nov 2025
 """
 
 import argparse

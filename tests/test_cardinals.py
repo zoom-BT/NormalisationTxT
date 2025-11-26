@@ -7,7 +7,7 @@ des nombres cardinaux de 0 à 1000 en français et en anglais.
 Usage:
     pytest tests/test_cardinals.py -v
 
-Author: Text Normalization Challenge
+Author: Zoom BT for Text Normalization Challenge
 Date: 2025
 """
 

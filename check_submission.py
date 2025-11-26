@@ -5,8 +5,8 @@ Script de vérification de la soumission
 Ce script vérifie que tous les fichiers requis sont présents
 et que la structure du projet est correcte.
 
-Author: Text Normalization Challenge
-Date: 2025
+Author: zoom BT for Text Normalization Challenge
+Date: Nov 2025
 """
 
 import os
