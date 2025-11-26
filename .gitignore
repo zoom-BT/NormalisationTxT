@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Test outputs
+.pytest_cache/
+test_results/
+
+# Compiled FST files
+*.fst
+*.far
+
+# PDF temporary files
+*.aux
+*.log
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
