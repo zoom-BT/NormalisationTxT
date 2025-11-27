@@ -37,8 +37,7 @@ pip install -r requirements.txt
 python normalize.py --demo
 ```
 ---
-// ... existing code ...
----
+
 
 > ⚠️ **Important pour Windows** : Ce projet nécessite des bibliothèques C++ Unix. Les utilisateurs Windows **DOIVENT** utiliser **WSL** (Windows Subsystem for Linux). Voir [INSTALLATION.md](INSTALLATION.md) pour le guide détaillé.
 
