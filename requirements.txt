@@ -1,5 +1,5 @@
-pynini==2.1.5
-openfst-python==1.8.2
+pynini>=2.1.6
+#openfst-python==1.8.2
 regex==2023.12.25
 pytest==7.4.3
 reportlab==4.0.7

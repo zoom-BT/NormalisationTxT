@@ -48,3 +48,10 @@ test_results/
 # OS
 .DS_Store
 Thumbs.db
+
+
+# Environnements virtuels
+.venv
+.venv_wsl
+venv/
+env/
