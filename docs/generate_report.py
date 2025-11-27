@@ -7,8 +7,8 @@ Ce script génère un rapport PDF professionnel incluant:
 - Résultats et statistiques
 - Instructions d'utilisation
 
-Author: Text Normalization Challenge
-Date: 2025
+Author: Balbino Tchoutzine for Text Normalization Challenge
+Date: Nov 2025
 """
 
 import sys
@@ -120,7 +120,7 @@ class ReportGenerator:
 
         # Informations
         info_data = [
-            ["Auteur:", "Text Normalization Challenge Submission"],
+            ["Auteur:", "Balbino Tchoutzine for Text Normalization Challenge Submission"],
             ["Date:", datetime.now().strftime("%B %Y")],
             ["Langues supportées:", "Français, Anglais"],
             ["Plage de nombres:", "0 - 1000"],
