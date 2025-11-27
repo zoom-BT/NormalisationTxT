@@ -36,7 +36,38 @@ pip install -r requirements.txt
 ```bash
 python normalize.py --demo
 ```
+---
+// ... existing code ...
+---
 
+> ⚠️ **Important pour Windows** : Ce projet nécessite des bibliothèques C++ Unix. Les utilisateurs Windows **DOIVENT** utiliser **WSL** (Windows Subsystem for Linux). Voir [INSTALLATION.md](INSTALLATION.md) pour le guide détaillé.
+
+### Prérequis
+
+- Python 3.8+ (Linux/macOS/WSL)
+- Outils de compilation (`sudo apt install build-essential python3-dev`)
+
+### Installation
+
+Il est recommandé d'installer Cython séparément avant les autres dépendances pour éviter les erreurs de compilation.
+
+```bash
+# 1. Créer l'environnement virtuel
+python3 -m venv .venv
+source .venv/bin/activate
+
+# 2. Pré-installer Cython (Crucial pour Pynini)
+pip install Cython
+
+# 3. Installer les dépendances
+pip install -r requirements.txt
+```
+
+### Vérification de l'installation
+
+```bash
+python normalize.py --demo
+```
 ---
 
 ## 📚 Utilisation
@@ -442,4 +473,4 @@ Pour toute question sur ce projet, consulter:
 
 ---
 
-**Bonne chance! 🚀**
+**Stay fast, stay accurate! 🚀**
