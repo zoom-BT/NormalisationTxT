@@ -430,7 +430,7 @@ pytest tests/test_cardinals.py::TestClass::test_name -v
 
 ## 📝 Licence et auteur
 
-**Author**: Text Normalization Challenge Submission
+**Author**: Balbino Tcoutzine for Text Normalization Challenge Submission
 **Date**: 2025
 **Framework**: Pynini (Google OpenFST)
 
